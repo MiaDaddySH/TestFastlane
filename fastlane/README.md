@@ -15,18 +15,10 @@ Install _fastlane_ using
 or alternatively using `brew install fastlane`
 
 # Available Actions
-### beta
-```
-fastlane beta
-```
-
-
-----
-
 ## iOS
-### ios custom_lane
+### ios generate_ipa_develop
 ```
-fastlane ios custom_lane
+fastlane ios generate_ipa_develop
 ```
 Description of what the lane does
 
